@@ -2,7 +2,7 @@
 
 Ongoing project to do small tiny JS projects- ongoing learning experience.
 
-1. ![Expanding Cards](/expanding_cards/thumbnail.png) <br />
+1. <a>![Expanding Cards](/expanding_cards/thumbnail.png)</a> <br />
    [Expanding Cards](https://hilarious-tulumba-826e9c.netlify.app/)
 2. Hidden Search -
 3. Project Starter -
