@@ -6,5 +6,6 @@ Ongoing project to do small tiny JS projects- ongoing learning experience.
    [Expanding Cards](https://hilarious-tulumba-826e9c.netlify.app/)
 2. <a>![Hidden Search](/hidden_search/thumbnail.png)</a> <br />
    [Hidden Search](https://tourmaline-tulumba-eec86b.netlify.app/)
-3. Progress Steps -
+3. <a>![Progress Steps](/progress_steps/thumbnail.png)</a> <br />
+   [Progress Steps](https://inquisitive-kashata-5341ee.netlify.app)
 4. Rotating Navigation -
