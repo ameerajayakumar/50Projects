@@ -1,0 +1,10 @@
+body {
+  /* padding: 50px; */
+  background-color: #edf2f5;
+  font-family: "Montserrat" !important;
+  margin: 0px;
+}
+#root {
+  display: flex;
+  justify-content: center;
+}

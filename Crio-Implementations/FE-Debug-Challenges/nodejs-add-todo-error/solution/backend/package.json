@@ -1,0 +1,21 @@
+{
+  "name": "nodejsbyte1",
+  "version": "1.0.0",
+  "description": "NodeJS first Byte",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/app.js"
+  },
+  "author": "Aman Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.10.12",
+    "nodemon": "^2.0.7"
+  }
+}
