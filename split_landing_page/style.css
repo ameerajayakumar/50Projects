@@ -12,6 +12,15 @@ body {
   overflow: hidden;
   margin: 0;
 }
+h1 {
+  position: absolute;
+  font-size: 4rem;
+  color: #fff;
+  left: 50%;
+  top: 20%;
+  transform: translateX(-50%);
+  white-space: nowrap; /*heading is in same line and doesnt wrap on smaller screens*/
+}
 .container {
   position: relative;
   width: 100%;
